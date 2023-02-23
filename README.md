@@ -21,5 +21,5 @@ Mallivastaukset julkaistaan PE 17.2.2023
 
 ## Materiaalit
 
-- Luentotallennus TODO
-- TODO materiaalia
+- [Luentotallennus ](https://youtu.be/kZnduzesXLU)
+- [Malliratkaisut](./kierros2_ratkaisut.ipynb)
